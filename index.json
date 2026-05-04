@@ -35,6 +35,12 @@
       "code": "hr",
       "file": "translations/hr.json",
       "version": 3
+    },
+    {
+      "name": "Portuguese (Brazil)",
+      "code": "pt-br",
+      "file": "translations/pt-br.json",
+      "version": 3
     }
   ]
 }

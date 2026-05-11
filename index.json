@@ -10,37 +10,37 @@
       "name": "Hindi",
       "code": "hi",
       "file": "translations/hi.json",
-      "version": 4
+      "version": 5
     },
     {
       "name": "Spanish",
       "code": "es",
       "file": "translations/es.json",
-      "version": 4
+      "version": 5
     },
     {
       "name": "German",
       "code": "de",
       "file": "translations/de.json",
-      "version": 4
+      "version": 5
     },
     {
       "name": "French",
       "code": "fr",
       "file": "translations/fr.json",
-      "version": 4
+      "version": 5
     },
     {
       "name": "Croatian",
       "code": "hr",
       "file": "translations/hr.json",
-      "version": 4
+      "version": 5
     },
     {
       "name": "Portuguese (Brazil)",
       "code": "pt-br",
       "file": "translations/pt-br.json",
-      "version": 5
+      "version": 6
     }
   ]
 }

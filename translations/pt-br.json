@@ -400,7 +400,7 @@
   "Standard": "Padrão",
   "Minimal": "Mínimo",
   "What is the recording about": "Sobre o que é a gravação",
-  "Deskboard for Linux is still in Alpha. Report issues on our": "O Deskboard para Linux ainda está em Alpha. Relate problemas no nosso",
+  "Deskboard for {os} is still in Alpha. Report issues on our": "O Deskboard para {os} ainda está em Alpha. Relate problemas no nosso",
   "Discord Server": "Servidor do Discord",
   "or email": "ou por e-mail",
   "Add Link": "Adicionar link",

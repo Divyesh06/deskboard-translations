@@ -400,7 +400,7 @@
   "Standard": "Standardno",
   "Minimal": "Minimalno",
   "What is the recording about": "O čemu je snimka",
-  "Deskboard for Linux is still in Alpha. Report issues on our": "Deskboard za Linux je još u Alpha verziji. Prijavite probleme na našem",
+  "Deskboard for {os} is still in Alpha. Report issues on our": "Deskboard za {os} je još u Alpha verziji. Prijavite probleme na našem",
   "Discord Server": "Discord poslužitelju",
   "or email": "ili e-poštom",
   "Add Link": "Dodaj poveznicu",

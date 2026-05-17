@@ -464,5 +464,13 @@
   "Search…": "Pesquisar…",
   "No matches": "Sem resultados",
   "Theme Default": "Padrão do tema",
-  "Loading fonts…": "Carregando fontes…"
+  "Loading fonts…": "Carregando fontes…",
+  "Open Website": "Abrir site",
+  "Website Paused": "Site pausado",
+  "Exit edit mode to resume session": "Saia do modo de edição para retomar a sessão",
+  "Close the menu to resume session": "Feche o menu para retomar a sessão",
+  "Close the add panel to resume session": "Feche o painel de adicionar para retomar a sessão",
+  "Scroll the widget out of the top area to resume session": "Role o widget para fora da área superior para retomar a sessão",
+  "Close the dialog to resume session": "Feche o diálogo para retomar a sessão",
+  "Close annotations to resume session": "Feche as anotações para retomar a sessão"
 }

@@ -464,5 +464,13 @@
   "Search…": "Pretraži…",
   "No matches": "Nema rezultata",
   "Theme Default": "Zadana tema",
-  "Loading fonts…": "Učitavanje fontova…"
+  "Loading fonts…": "Učitavanje fontova…",
+  "Open Website": "Otvori web stranicu",
+  "Website Paused": "Web stranica pauzirana",
+  "Exit edit mode to resume session": "Izađi iz načina uređivanja za nastavak sesije",
+  "Close the menu to resume session": "Zatvori izbornik za nastavak sesije",
+  "Close the add panel to resume session": "Zatvori ploču za dodavanje za nastavak sesije",
+  "Scroll the widget out of the top area to resume session": "Pomakni widget izvan gornjeg područja za nastavak sesije",
+  "Close the dialog to resume session": "Zatvori dijalog za nastavak sesije",
+  "Close annotations to resume session": "Zatvori bilješke za nastavak sesije"
 }

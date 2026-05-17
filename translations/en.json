@@ -464,5 +464,13 @@
   "Search…": "Search…",
   "No matches": "No matches",
   "Theme Default": "Theme Default",
-  "Loading fonts…": "Loading fonts…"
+  "Loading fonts…": "Loading fonts…",
+  "Open Website": "Open Website",
+  "Website Paused": "Website Paused",
+  "Exit edit mode to resume session": "Exit edit mode to resume session",
+  "Close the menu to resume session": "Close the menu to resume session",
+  "Close the add panel to resume session": "Close the add panel to resume session",
+  "Scroll the widget out of the top area to resume session": "Scroll the widget out of the top area to resume session",
+  "Close the dialog to resume session": "Close the dialog to resume session",
+  "Close annotations to resume session": "Close annotations to resume session"
 }

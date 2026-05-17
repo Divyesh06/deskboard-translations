@@ -464,5 +464,13 @@
   "Search…": "खोजें…",
   "No matches": "कोई मेल नहीं",
   "Theme Default": "थीम डिफ़ॉल्ट",
-  "Loading fonts…": "फ़ॉन्ट लोड हो रहे हैं…"
+  "Loading fonts…": "फ़ॉन्ट लोड हो रहे हैं…",
+  "Open Website": "वेबसाइट खोलें",
+  "Website Paused": "वेबसाइट रोकी गई",
+  "Exit edit mode to resume session": "सत्र फिर से शुरू करने के लिए संपादन मोड से बाहर निकलें",
+  "Close the menu to resume session": "सत्र फिर से शुरू करने के लिए मेनू बंद करें",
+  "Close the add panel to resume session": "सत्र फिर से शुरू करने के लिए ऐड पैनल बंद करें",
+  "Scroll the widget out of the top area to resume session": "सत्र फिर से शुरू करने के लिए विजेट को ऊपरी क्षेत्र से बाहर स्क्रॉल करें",
+  "Close the dialog to resume session": "सत्र फिर से शुरू करने के लिए डायलॉग बंद करें",
+  "Close annotations to resume session": "सत्र फिर से शुरू करने के लिए एनोटेशन बंद करें"
 }

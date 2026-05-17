@@ -464,5 +464,13 @@
   "Search…": "Suchen…",
   "No matches": "Keine Treffer",
   "Theme Default": "Theme-Standard",
-  "Loading fonts…": "Schriftarten werden geladen…"
+  "Loading fonts…": "Schriftarten werden geladen…",
+  "Open Website": "Webseite öffnen",
+  "Website Paused": "Webseite pausiert",
+  "Exit edit mode to resume session": "Bearbeitungsmodus beenden, um die Sitzung fortzusetzen",
+  "Close the menu to resume session": "Menü schließen, um die Sitzung fortzusetzen",
+  "Close the add panel to resume session": "Hinzufügen-Panel schließen, um die Sitzung fortzusetzen",
+  "Scroll the widget out of the top area to resume session": "Widget aus dem oberen Bereich scrollen, um die Sitzung fortzusetzen",
+  "Close the dialog to resume session": "Dialog schließen, um die Sitzung fortzusetzen",
+  "Close annotations to resume session": "Anmerkungen schließen, um die Sitzung fortzusetzen"
 }

@@ -472,5 +472,14 @@
   "Close the add panel to resume session": "Zatvori ploču za dodavanje za nastavak sesije",
   "Scroll the widget out of the top area to resume session": "Pomakni widget izvan gornjeg područja za nastavak sesije",
   "Close the dialog to resume session": "Zatvori dijalog za nastavak sesije",
-  "Close annotations to resume session": "Zatvori bilješke za nastavak sesije"
+  "Close annotations to resume session": "Zatvori bilješke za nastavak sesije",
+  "{count} items selected": "Odabrano {count} stavki",
+  "Delete {count} items": "Izbriši {count} stavki",
+  "The items will be moved to the system recycle bin.": "Stavke će biti premještene u koš za smeće sustava.",
+  "This action will permanently delete the items.": "Ova radnja će trajno izbrisati stavke.",
+  "Clear selection": "Poništi odabir",
+  "Set Open Command for {count} items": "Postavi naredbu otvaranja za {count} stavki",
+  "No common properties to edit": "Nema zajedničkih svojstava za uređivanje",
+  "No common layout properties to edit": "Nema zajedničkih svojstava izgleda za uređivanje",
+  "Multiple values": "Više vrijednosti"
 }

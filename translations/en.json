@@ -472,5 +472,14 @@
   "Close the add panel to resume session": "Close the add panel to resume session",
   "Scroll the widget out of the top area to resume session": "Scroll the widget out of the top area to resume session",
   "Close the dialog to resume session": "Close the dialog to resume session",
-  "Close annotations to resume session": "Close annotations to resume session"
+  "Close annotations to resume session": "Close annotations to resume session",
+  "{count} items selected": "{count} items selected",
+  "Delete {count} items": "Delete {count} items",
+  "The items will be moved to the system recycle bin.": "The items will be moved to the system recycle bin.",
+  "This action will permanently delete the items.": "This action will permanently delete the items.",
+  "Clear selection": "Clear selection",
+  "Set Open Command for {count} items": "Set Open Command for {count} items",
+  "No common properties to edit": "No common properties to edit",
+  "No common layout properties to edit": "No common layout properties to edit",
+  "Multiple values": "Multiple values"
 }

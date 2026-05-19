@@ -472,5 +472,14 @@
   "Close the add panel to resume session": "Hinzufügen-Panel schließen, um die Sitzung fortzusetzen",
   "Scroll the widget out of the top area to resume session": "Widget aus dem oberen Bereich scrollen, um die Sitzung fortzusetzen",
   "Close the dialog to resume session": "Dialog schließen, um die Sitzung fortzusetzen",
-  "Close annotations to resume session": "Anmerkungen schließen, um die Sitzung fortzusetzen"
+  "Close annotations to resume session": "Anmerkungen schließen, um die Sitzung fortzusetzen",
+  "{count} items selected": "{count} Elemente ausgewählt",
+  "Delete {count} items": "{count} Elemente löschen",
+  "The items will be moved to the system recycle bin.": "Die Elemente werden in den Papierkorb verschoben.",
+  "This action will permanently delete the items.": "Diese Aktion löscht die Elemente endgültig.",
+  "Clear selection": "Auswahl aufheben",
+  "Set Open Command for {count} items": "Öffnen-Befehl für {count} Elemente festlegen",
+  "No common properties to edit": "Keine gemeinsamen Eigenschaften zum Bearbeiten",
+  "No common layout properties to edit": "Keine gemeinsamen Layout-Eigenschaften zum Bearbeiten",
+  "Multiple values": "Mehrere Werte"
 }

@@ -472,5 +472,14 @@
   "Close the add panel to resume session": "सत्र फिर से शुरू करने के लिए ऐड पैनल बंद करें",
   "Scroll the widget out of the top area to resume session": "सत्र फिर से शुरू करने के लिए विजेट को ऊपरी क्षेत्र से बाहर स्क्रॉल करें",
   "Close the dialog to resume session": "सत्र फिर से शुरू करने के लिए डायलॉग बंद करें",
-  "Close annotations to resume session": "सत्र फिर से शुरू करने के लिए एनोटेशन बंद करें"
+  "Close annotations to resume session": "सत्र फिर से शुरू करने के लिए एनोटेशन बंद करें",
+  "{count} items selected": "{count} आइटम चयनित",
+  "Delete {count} items": "{count} आइटम हटाएं",
+  "The items will be moved to the system recycle bin.": "आइटम सिस्टम रीसायकल बिन में ले जाए जाएंगे।",
+  "This action will permanently delete the items.": "यह क्रिया आइटम को स्थायी रूप से हटा देगी।",
+  "Clear selection": "चयन साफ़ करें",
+  "Set Open Command for {count} items": "{count} आइटम के लिए ओपन कमांड सेट करें",
+  "No common properties to edit": "संपादित करने के लिए कोई सामान्य गुण नहीं",
+  "No common layout properties to edit": "संपादित करने के लिए कोई सामान्य लेआउट गुण नहीं",
+  "Multiple values": "एकाधिक मान"
 }

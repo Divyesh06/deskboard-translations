@@ -472,5 +472,14 @@
   "Close the add panel to resume session": "Fermer le panneau d'ajout pour reprendre la session",
   "Scroll the widget out of the top area to resume session": "Faire défiler le widget hors de la zone supérieure pour reprendre la session",
   "Close the dialog to resume session": "Fermer la boîte de dialogue pour reprendre la session",
-  "Close annotations to resume session": "Fermer les annotations pour reprendre la session"
+  "Close annotations to resume session": "Fermer les annotations pour reprendre la session",
+  "{count} items selected": "{count} éléments sélectionnés",
+  "Delete {count} items": "Supprimer {count} éléments",
+  "The items will be moved to the system recycle bin.": "Les éléments seront déplacés vers la corbeille du système.",
+  "This action will permanently delete the items.": "Cette action supprimera définitivement les éléments.",
+  "Clear selection": "Effacer la sélection",
+  "Set Open Command for {count} items": "Définir la commande d'ouverture pour {count} éléments",
+  "No common properties to edit": "Aucune propriété commune à modifier",
+  "No common layout properties to edit": "Aucune propriété de mise en page commune à modifier",
+  "Multiple values": "Plusieurs valeurs"
 }

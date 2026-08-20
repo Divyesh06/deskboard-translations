@@ -41,6 +41,12 @@
       "code": "pt-br",
       "file": "translations/pt-br.json",
       "version": 12
+    },
+      {
+      "name": "Bulgarian",
+      "code": "bgr",
+      "file": "translations/bg.json",
+      "version": 1
     }
   ]
 }

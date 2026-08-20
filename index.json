@@ -44,7 +44,7 @@
     },
       {
       "name": "Bulgarian",
-      "code": "bgr",
+      "code": "bg",
       "file": "translations/bg.json",
       "version": 1
     }

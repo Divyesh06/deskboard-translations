@@ -507,5 +507,9 @@
   "Free": "Свободно",
   "Gap": "Отстояние",
   "Space between items": "Разстояние между елементите",
-  "Hide Frame": "Скрий рамката"
+  "Hide Frame": "Скрий рамката",
+  "Launching": "Стартиране",
+  "Checking for file changes": "Проверка за промени във файловете",
+  "Stops drawing items scrolled out of view, keeping very large boards responsive. Decided automatically unless you set it here.": "Спира изчертаването на елементи, превъртени извън видимата област, като така много големите табла остават отзивчиви. Определя се автоматично, освен ако не го зададете тук.",
+  "Virtualise Off-Screen Items": "Виртуализирай елементите извън екрана"
 }

@@ -4,49 +4,49 @@
       "name": "English",
       "code": "en",
       "file": "translations/en.json",
-      "version": 10
+      "version": 11
     },
     {
       "name": "Hindi",
       "code": "hi",
       "file": "translations/hi.json",
-      "version": 11
+      "version": 12
     },
     {
       "name": "Spanish",
       "code": "es",
       "file": "translations/es.json",
-      "version": 11
+      "version": 12
     },
     {
       "name": "German",
       "code": "de",
       "file": "translations/de.json",
-      "version": 11
+      "version": 12
     },
     {
       "name": "French",
       "code": "fr",
       "file": "translations/fr.json",
-      "version": 11
+      "version": 12
     },
     {
       "name": "Croatian",
       "code": "hr",
       "file": "translations/hr.json",
-      "version": 11
+      "version": 12
     },
     {
       "name": "Portuguese (Brazil)",
       "code": "pt-br",
       "file": "translations/pt-br.json",
-      "version": 12
+      "version": 13
     },
-      {
+    {
       "name": "Bulgarian",
       "code": "bg",
       "file": "translations/bg.json",
-      "version": 1
+      "version": 2
     }
   ]
 }

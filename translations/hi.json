@@ -507,5 +507,9 @@
   "Free": "मुक्त",
   "Gap": "अंतराल",
   "Space between items": "आइटम के बीच की जगह",
-  "Hide Frame": "फ़्रेम छिपाएँ"
+  "Hide Frame": "फ़्रेम छिपाएँ",
+  "Launching": "लॉन्च हो रहा है",
+  "Checking for file changes": "फ़ाइल परिवर्तनों की जाँच की जा रही है",
+  "Stops drawing items scrolled out of view, keeping very large boards responsive. Decided automatically unless you set it here.": "दृश्य से बाहर स्क्रॉल हो चुके आइटम बनाना बंद कर देता है, जिससे बहुत बड़े बोर्ड भी तेज़ बने रहते हैं। जब तक आप इसे यहाँ सेट नहीं करते, यह अपने आप तय होता है।",
+  "Virtualise Off-Screen Items": "ऑफ़-स्क्रीन आइटम वर्चुअलाइज़ करें"
 }

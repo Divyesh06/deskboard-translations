@@ -507,5 +507,9 @@
   "Free": "Frei",
   "Gap": "Abstand",
   "Space between items": "Abstand zwischen Elementen",
-  "Hide Frame": "Rahmen ausblenden"
+  "Hide Frame": "Rahmen ausblenden",
+  "Launching": "Wird gestartet",
+  "Checking for file changes": "Dateiänderungen werden geprüft",
+  "Stops drawing items scrolled out of view, keeping very large boards responsive. Decided automatically unless you set it here.": "Zeichnet Elemente nicht mehr, die aus dem sichtbaren Bereich gescrollt wurden, damit auch sehr große Boards reaktionsschnell bleiben. Wird automatisch entschieden, sofern Sie es hier nicht festlegen.",
+  "Virtualise Off-Screen Items": "Elemente außerhalb des Bildschirms virtualisieren"
 }

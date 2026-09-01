@@ -507,5 +507,9 @@
   "Free": "Free",
   "Gap": "Gap",
   "Space between items": "Space between items",
-  "Hide Frame": "Hide Frame"
+  "Hide Frame": "Hide Frame",
+  "Launching": "Launching",
+  "Checking for file changes": "Checking for file changes",
+  "Stops drawing items scrolled out of view, keeping very large boards responsive. Decided automatically unless you set it here.": "Stops drawing items scrolled out of view, keeping very large boards responsive. Decided automatically unless you set it here.",
+  "Virtualise Off-Screen Items": "Virtualise Off-Screen Items"
 }

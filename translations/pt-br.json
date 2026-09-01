@@ -507,5 +507,9 @@
   "Free": "Livre",
   "Gap": "Espaçamento",
   "Space between items": "Espaço entre os itens",
-  "Hide Frame": "Ocultar moldura"
+  "Hide Frame": "Ocultar moldura",
+  "Launching": "Iniciando",
+  "Checking for file changes": "Verificando alterações nos arquivos",
+  "Stops drawing items scrolled out of view, keeping very large boards responsive. Decided automatically unless you set it here.": "Para de desenhar os itens que saem da área visível, mantendo quadros muito grandes responsivos. É decidido automaticamente, a menos que você defina aqui.",
+  "Virtualise Off-Screen Items": "Virtualizar itens fora da tela"
 }

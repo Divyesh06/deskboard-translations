@@ -507,5 +507,9 @@
   "Free": "Slobodno",
   "Gap": "Razmak",
   "Space between items": "Razmak između stavki",
-  "Hide Frame": "Sakrij okvir"
+  "Hide Frame": "Sakrij okvir",
+  "Launching": "Pokretanje",
+  "Checking for file changes": "Provjera promjena datoteka",
+  "Stops drawing items scrolled out of view, keeping very large boards responsive. Decided automatically unless you set it here.": "Prestaje iscrtavati stavke pomaknute izvan vidnog polja, čime vrlo velike ploče ostaju responzivne. Određuje se automatski, osim ako to ovdje ne postavite.",
+  "Virtualise Off-Screen Items": "Virtualiziraj stavke izvan zaslona"
 }
